@@ -4,7 +4,7 @@
 <p>Estudiante de ASIR </p>
 
 <details>
-  <summary>Más información</summary>
+  <summary>No pulsar</summary>
   <br />
 <img src="https://img.clubimagenes.com/ci/re/hola/hola_015.webp">
 </details>

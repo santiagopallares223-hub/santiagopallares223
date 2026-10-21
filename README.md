@@ -1,7 +1,7 @@
 # santiagopallares223
 
-Hola buenas **tardes** 
-<p>Estudiante de ASIR </p>
+<h1>Hola buenas tardes </h1>
+<p>Estudiante de **ASIR** </p>
 
 <details>
   <summary>No pulsar</summary>

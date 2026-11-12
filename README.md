@@ -1,6 +1,6 @@
 # santiagopallares223
 **Markdown**
-<h1>Hola buenas tardes </h1>
+## Hola buenas tardes
 Estudiante de ASIR
 
 <details>
